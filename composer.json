@@ -1,0 +1,27 @@
+{
+  "name": "enozom/basecash",
+  "description": "Basic double entry accounting for Laravel",
+  "keywords": ["laravel","accounting"],
+  "homepage": "http://www.enozom.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hazem Torab",
+      "email": "hazem.torab@enozom.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/config": "~5.0",
+    "illuminate/support": "~5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Enozom\\BashCash\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
