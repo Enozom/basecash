@@ -1,4 +1,4 @@
-# Double-entry bookkeeping Accounting System - Laravel Package
+# Double-entry Bookkeeping Accounting System - Laravel Package
 
 Still Under Development
 
